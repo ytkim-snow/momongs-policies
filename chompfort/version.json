@@ -2,5 +2,5 @@
   "schema": 1,
   "appId": "com.chompfort.game",
   "android": {"available": true, "minimumBuild": 1, "latestBuild": 62, "versionName": "1.0.5"},
-  "ios": {"available": true, "minimumBuild": "1", "latestBuild": "50", "versionName": "1.0.4"}
+  "ios": {"available": true, "minimumBuild": "1", "latestBuild": "51", "versionName": "1.0.5"}
 }
