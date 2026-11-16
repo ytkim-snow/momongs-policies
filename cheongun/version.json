@@ -1,0 +1,6 @@
+{
+  "schema": 1,
+  "appId": "com.momongs.cheongun",
+  "android": {"available": false, "minimumBuild": 1, "latestBuild": 1},
+  "ios": {"available": false, "minimumBuild": "1", "latestBuild": "1"}
+}
